@@ -35,7 +35,6 @@ encryption = "WPA"            # WPA/WPA2 for most networks, WEP if needed, or "n
 
 ```
 python main.py
-
 ```
 
 enjoy 👾
