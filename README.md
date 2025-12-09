@@ -36,5 +36,6 @@ encryption = "WPA"            # WPA/WPA2 for most networks, WEP if needed, or "n
 ```
 python main.py
 ```
+The QR code will be saved as wifi_qr.png in the same folder.
 
-enjoy 👾
+enjoy! 👾
