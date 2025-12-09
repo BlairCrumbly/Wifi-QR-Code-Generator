@@ -1,7 +1,7 @@
 # Wi-Fi QR Code Generator
 
 This Python script generates a QR code for your home Wi-Fi network.  
-Guests can simply scan the QR code with their phone to connect instantly — no need to type the password.
+Guests can simply scan the QR code with their phone to connect instantly, no need to type the password.
 This was made purely so I can save myself a trip to my router.
 ---
 
